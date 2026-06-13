@@ -1,0 +1,6 @@
+{
+  "name": "BETESEB CARE",
+  "description": "Trusted family concierge and healthcare navigation service in Calgary, prioritizing language match, cultural responsiveness, and personalized care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
